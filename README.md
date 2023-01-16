@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Kamatera's <img src="https://www.transparentpng.com/thumb/germany-flag/CEbjV6-germany-flags-png-picture.png" alt="flag"/> Profile</h1>
+<h1 align="center">Welcome to Kamatera's <img src="https://www.transparentpng.com/thumb/germany-flag/CEbjV6-germany-flags-png-picture.png" alt="flag" width="100" height="0,625"/> Profile</h1>
 <h3 align="center">Malware Hunter, Kamatera Stealer Founder, and working now on future projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamatera1337&label=Profile%20views&color=0e75b6&style=flat" alt="kamatera1337" /> </p>
